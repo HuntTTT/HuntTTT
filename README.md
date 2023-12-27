@@ -1,4 +1,4 @@
-[![MasterHead](https://w.forfun.com/fetch/d9/d929568672090b0a6c4dabbf29e840e6.jpeg)](https://hunt)
+[![MasterHead](https://w.forfun.com/fetch/d9/d929568672090b0a6c4dabbf29e840e6.jpeg)](https://rishavchanda.io)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Huanter Hunt
 ====================================================================================================================================
 
