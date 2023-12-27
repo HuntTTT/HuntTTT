@@ -1,4 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RWJPtq90qOA4E/giphy.gif" width="500"/>
+</div>
+
+
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Huanter Hunt
